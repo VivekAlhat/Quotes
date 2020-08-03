@@ -1,6 +1,6 @@
 {
   "name": "@vivekalhat/randomquotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Random Quotes Generator",
   "main": "index.js",
   "scripts": {
