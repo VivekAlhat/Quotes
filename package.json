@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VivekAlhat/Quotes/issues"
   },
-  "homepage": "https://github.com/VivekAlhat/Quotes#readme"
+  "homepage": "https://github.com/VivekAlhat/Quotes#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
