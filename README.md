@@ -28,7 +28,7 @@ Description - Returns a random quote
 #### .getAll
 
 Type - <code>Function</code>\
-Description - Returns quote array
+Description - Returns quotes array
 
 ## License
 
