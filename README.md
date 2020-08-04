@@ -13,10 +13,23 @@ Simple NPM Package To Generate Random Quotes
 ## Usage
 
 ```js
-const qt = require('@vivekalhat/randomquotes');
+const qt = require("@vivekalhat/randomquotes");
 var quote = qt.getQuote();
 console.log(quote);
 ```
+
+## API
+
+### .getQuote
+
+Type - <code>Function</code>
+Description - Returns a random quote
+
+### .getAll
+
+Type - <code>Function</code>
+Description - Returns quote array
+
 ## License
 
 MIT © [Vivek Alhat](https://vivekalhat.ml)
