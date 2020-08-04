@@ -20,12 +20,12 @@ console.log(quote);
 
 ## API
 
-### .getQuote
+#### .getQuote
 
 Type - <code>Function</code>
 Description - Returns a random quote
 
-### .getAll
+#### .getAll
 
 Type - <code>Function</code>
 Description - Returns quote array
