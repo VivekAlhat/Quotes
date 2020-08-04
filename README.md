@@ -22,12 +22,12 @@ console.log(quote);
 
 #### .getQuote
 
-Type - <code>Function</code>
+Type - <code>Function</code>\
 Description - Returns a random quote
 
 #### .getAll
 
-Type - <code>Function</code>
+Type - <code>Function</code>\
 Description - Returns quote array
 
 ## License
