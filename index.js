@@ -10,4 +10,9 @@ function getQuote() {
   return data[random()].quote;
 }
 
+function getAll() {
+  return data;
+}
+
 module.exports.getQuote = getQuote;
+module.exports.getAll = getAll;
