@@ -1,18 +1,21 @@
 const data = require("./data/quotes.json");
 
-var len = data.length;
+const len = data.length;
 
 function random() {
   return Math.floor(Math.random() * len) + 1;
 }
 
-function getQuote() {
+module.exports.getQuote = () => {
   return data[random()].quote;
 }
 
-function getAll() {
+module.exports.getAll = () => {
   return data;
 }
 
-module.exports.getQuote = getQuote;
-module.exports.getAll = getAll;
+module.exports.getByAuthor = (author) => {
+  return data.find(quote => {
+    return quote.author = author;
+  })
+}

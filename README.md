@@ -30,6 +30,11 @@ Description - Returns a random quote
 Type - <code>Function</code>\
 Description - Returns quotes array
 
+#### .getByAuthor
+
+Type - <code>Function</code>\
+Description - Returns quotes from given author
+
 ## License
 
 MIT © [Vivek Alhat](https://vivekalhat.ml)
