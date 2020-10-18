@@ -33,7 +33,7 @@ Description - Returns quotes array
 #### .getByAuthor
 
 Type - <code>Function</code>\
-Description - Returns quotes from given author
+Description - Returns quote from given author
 
 ## License
 
